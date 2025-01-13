@@ -1,1 +1,1 @@
-# Analog_clock
+# Analog_clock: This code is an analogue clock that displays the current time. It uses ‘Date’ to read out the time and displays it on the clock with an hour, minute and second hand.
